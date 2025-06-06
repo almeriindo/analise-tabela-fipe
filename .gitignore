@@ -1,0 +1,7 @@
+# Ignorar ambiente virtual Python
+.venv/
+
+# Ignorar artefatos gerados
+artifacts/
+
+main.py
