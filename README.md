@@ -30,3 +30,9 @@ O dashboard interativo foi criado com o **Power BI**, permitindo a navegação p
 - Valor do veículo mais caro e mais barato
 
 📁 O arquivo `Dashboard Tabela FIPE.pbix` está disponível no repositório e por este [link](https://cinufpe-my.sharepoint.com/:u:/g/personal/apsn_cin_ufpe_br/Efaj68RGG91OnQ1TfFHgZtwB4Mrvquv6TevFbXFLRlorZA?e=brAVzO).
+
+## 🖼️ Prévia do Dashboard
+
+Abaixo, uma prévia do dashboard criado no Power BI:
+
+![Dashboard no Power BI](Preview_Dashboard_Tabela_FIPE.png)
